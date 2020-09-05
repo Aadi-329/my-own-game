@@ -75,6 +75,7 @@ function draw(){
     powers[index].addImage(mask_img)
     powers[index].scale=0.05
     
+    
 
     if(  powers[index].isTouching(pc)){console.log("powers")
   
